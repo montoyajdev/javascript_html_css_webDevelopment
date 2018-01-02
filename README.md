@@ -10,6 +10,6 @@ One navigation bar would appear for screen sizes that were greater than 768 pixe
 
 ### Instagram API
 >I created an Instagram API so that my posts on Instagram were synchronized and shown on my website in real-time with the help of instafeed.js.  
-
-##CSS
+---
+## CSS
 >CSS3 and Bootstrap were used to make the website mobile optimized.  Animate.css is responsible for the animations.
